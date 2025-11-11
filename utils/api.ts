@@ -1,6 +1,8 @@
 
 // utils/api.ts
 import axios from "axios";
+console.log("Base URL:", process.env.NEXT_PUBLIC_API_URL);
+
 
 const API = axios.create({
   baseURL: process.env.NEXT_PUBLIC_API_URL
