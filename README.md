@@ -3,6 +3,8 @@ ImageGen — AI Text-to-Image Generator (Frontend)
 ImageGen is a modern AI-powered web application that transforms your text prompts into stunning images within seconds.
 Built with Next.js, it connects to a backend powered by RapidAPI and provides users with authentication, secure image management, and live error monitoring via Sentry.
 
+“Email verification is required to activate accounts. For demo purposes, only selected users are given the verification link. This mimics real-world gated access and prevents unintended use of image generation features.”
+
 🚀 Features
 🧠 AI-Powered Image Generation
 
